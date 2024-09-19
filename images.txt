@@ -1,2 +1,2 @@
 alpine
-qbittorrent
+qbittorrent:last
